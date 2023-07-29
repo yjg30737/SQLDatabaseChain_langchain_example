@@ -1,0 +1,4 @@
+openai
+psycopg2
+langchain
+python-environ
